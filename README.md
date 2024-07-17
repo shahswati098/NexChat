@@ -1,4 +1,7 @@
 # MERN Stack Project: Real Time Chat App
+## Description
+
+This Real-Time Chat Application is built using the MERN stack (MongoDB, Express, React, Node.js) combined with Socket.io for real-time communication. It allows users to register, authenticate, and engage in instant messaging. The app features real-time updates for online user statuses and leverages JWT for secure authentication and authorization.
 
 ## Live Demo
 
